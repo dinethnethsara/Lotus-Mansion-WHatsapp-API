@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌸 Lotus Mantion WhatsApp API
+# 🌸 Lotus Mansion WhatsApp API
 
 [![NPM Version](https://img.shields.io/npm/v/lotus-mantion-whatsapp-api.svg?style=flat-square)](https://www.npmjs.com/package/lotus-mantion-whatsapp-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -225,6 +225,6 @@ socket.on('groups.update', updates => {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-<p align="center">Made with ❤️ by the Lotus Mantion Team</p>
+<p align="center">Made with ❤️ by the Lotus Mansion Team</p>
 
 </div>
